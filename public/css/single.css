@@ -1,0 +1,17 @@
+h1{
+    color:blue;
+    background-color: rgb(198, 243, 243);
+    width: 100%;
+    text-align: center;
+}
+.single_body{
+    background-color: whitesmoke;
+}
+a:visited{
+    color: green;
+}
+body{
+    font-family: 'Courgette', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-size: 20px;
+}
