@@ -1,7 +1,7 @@
 ---
 title: "Finding Hugo"
 date: 2018-11-22T20:18:03-06:00
-draft: true
+draft: false
 
 ---
 Well this will be my blog page, I hope.  
