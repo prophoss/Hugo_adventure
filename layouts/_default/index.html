@@ -2,6 +2,8 @@
 {{ define "main"}}
 <link rel="stylesheet" href="{{"css/index.css" |relURL}}">
 <h1>My Hugo Adventure</h1>
+<h2>{{with .Site.GetPage "/about/index.md"}}{{.Title}}{{end}}</h2>
+
 <body class="index_body">
     <nav>
         {{range where .Pages "Title" "!=" "About"}}
