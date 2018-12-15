@@ -2,7 +2,7 @@
 {{ define "main"}}
 <link rel="stylesheet" href="{{"css/index.css" |relURL}}">
 <h1>My Hugo Adventure</h1>
-<h2>{{with .Site.GetPage "/about/index.md"}}{{.Title}}{{end}}</h2>
+    {{with .Site.GetPage "/about/index.md"}}<a href="{{.RelPermalink}}">{{.Title}}</a>{{end}}
 
 <body class="index_body">
     <nav>
