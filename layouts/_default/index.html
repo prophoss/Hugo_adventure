@@ -9,7 +9,7 @@
         {{range where .Pages "Title" "!=" "About"}}
         
         <ul>
-            <li><a href="{{.URL}}">{{.Title}}</a></li>
+            <li><a href="{{.URL}}">{{.Title}} <br> {{.Date}}</a></li>
         </ul>
     
     {{end}}
