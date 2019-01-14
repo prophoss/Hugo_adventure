@@ -1,0 +1,10 @@
+---
+title: "Weekly post"
+date: 2019-01-13T21:51:50-06:00
+draft: false
+---
+Well school has started! It is has been a while, but I'm looking forward to learning. MY first week in my calsses has been interesting. I have two classes going on right now. Critical thinking seems to be all about problem solving. One of the things I have learned so far is about transferable skills. My job so far has been in the printing industry. So most all of my skills are wrapped up in that. Printing is a very specialized trade. How do my skills transfer to another industry? In my reading this week I learned how to explain my skill set in a way that shows what I can do rather than listing all the things I did while I was in printing which nobody outside of the industry would know.  
+
+My other class is intro to engineering technology. Now this one is a bit more what I had expected. This week we are learning about the different types of engineering. I have to admit that I have been thinking about learning electrical engineering. Learning about it is a great way to kind of weigh out that option. I know there is a lot of math involved, but that shouldn't stop me if I really want to do it. Hey I can learn! It would take longer and be a bit harder, but I have to admit it is I really like the idea. As I go through this week I may know better if this is something I might want to do.   
+
+Next on the list is my knee. I hopefully will find out about when I can see an orthopedist. Then I should find out what will have to be done. Either surgery or PT or both. I'm hoping that whatever it is it goes well and quickly. I hate this waiting. I 'm hurting and missing work whcih affects how much money we get. God is still in charge and we have to remind ourselves of that sometimes. We have seen God take care of us over and over again, but its still not easy to do. It can be very nerve racking. I know my parents just went through something similar and they can attest to the truth of that statement. I guess we are just learning more about faith. A very good lesson, even if its not an easy one. 
