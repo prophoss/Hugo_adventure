@@ -1,5 +1,5 @@
 ---
-title: "Weekly Post"
+title: "Weekly Post 1-20-19"
 date: 2019-01-20T21:35:52-06:00
 draft: false
 ---
