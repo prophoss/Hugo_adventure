@@ -1,21 +1,23 @@
 
 nav{
-    color: white;
-    font-size: 25px;
+    color: rgb(243, 240, 234);
+    font-size: 22px;
 }
 .index_body{
-    background-color: whitesmoke;
-}
+    background-color: rgb(97, 111, 145);
+} 
 a:link{
-    color: black;
+    color: rgb(175, 19, 19);
 }
 a:visited{
-    color: green;
+    color: rgb(2, 13, 37);
 }
 h1{
     text-align: center;
-    height: 100px;
+    height: 150px;
     background-image: url(/images/rocks.jpg);
     color: white;
+    background-repeat: repeat-x;
     font-size: 60px;
 }
+
