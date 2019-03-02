@@ -1,18 +1,21 @@
 h1{
-    color:blue;
-    background-color: rgb(198, 233, 243);
+    color:rgb(34, 30, 54);
+    background-color: rgb(41, 64, 114);
     width: 100%;
     text-align: center;
     height: 40px;
     padding: 25px;
 }
 .single_body{
-   background-color: rgb(248, 225, 176);
+    border-left-color: rgb(135, 95, 18);
+    border-left-style: solid;
+    border-width: 10px;
+}
 a:visited{
     color: green;
 }
 body{
-    
     font-family: 'Cormorant Garamond', serif;
-    font-size: 32px;
+
+font-size: 22px;
 }
