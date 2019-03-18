@@ -1,0 +1,9 @@
+---
+title: "WeeklyPost 3-17-19"
+date: 2019-03-17T20:11:23-05:00
+draft: false
+---
+
+These past few weeks it has been very busy. My knee has been giving me fits. The shot I got is starting to wear off, and it is starting to hurt more. Last Time I was at the orthopedist she told me we need to think about a surgical option. It's not that I'm scared of surgurey, but what will we do about money when I'm off work for a month? Kind of some tough issues to deal with.   
+
+I have satrted my second round of calsses for this semester. I am re-taking algebra, and learning about sociology. The sociology class is kind of tough, not that it is hard but it deals with some tough issues such as culture and race and why people act as they do. I have to admit I don't understand it all that much and that might have something to do with it. I just don't believe all of the things they talk about in the class. I personally believe in personal resposibillity as much as anything. I just have a hard time accpeting that a persons culture is to blame for the way they act and believe. That is not exactly what they are teaching, but it sounds very similar to so much of the BS that is pandered about on national news and talk shows. My teacher is a nice lady who happens to black. Which dosen't help when we disscuss race. I always feel out of place when disscussing how I feel about that particular subject. White people and especially men are kind of made to feel like they are the reason for societies ills. I never did anyone wrong or caused someone to fail on purpose, and beside that I was the minority growing up who was bullied by black kids at school! I might be a bit touchy about it and that don't help when we are disscussing it in class. Still I figure it will be a good thing to work through all this past that creeps up on me from time to time. Y'all pray for me.  
